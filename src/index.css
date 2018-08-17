@@ -1,0 +1,105 @@
+body {
+  background-color: black;
+}
+.Creditcard {
+  display: flex;
+  justify-content: space-around;
+}
+.MainCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  margin-top: 100px;
+  height: 350px;
+  width: 500px;
+  background-image: url("https://i.pinimg.com/originals/c3/0c/0c/c30c0c5b97bc33fe00898d7f84509f1b.jpg");
+  border-radius: 10px;
+}
+.FormCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  margin-top: 100px;
+  height: 350px;
+  width: 500px;
+  background-image: url("https://i.pinimg.com/originals/c3/0c/0c/c30c0c5b97bc33fe00898d7f84509f1b.jpg");
+  border-radius: 10px;
+}
+.chips-img {
+  width: 60px;
+  height: 60px;
+  margin-left: -220px;
+  margin-top: -35px;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  margin-left: 150px;
+}
+.mastercard {
+  width: 120px;
+  height: 140px;
+  margin-left: 230px;
+  margin-top: 20px;
+}
+.mainnumbercard {
+  display: flex;
+}
+.span-number {
+  font-size: 30px;
+  color: rgba(136, 101, 52, 0.938);
+}
+.numbervisacard {
+  margin-left: -160px;
+  background-color: rgba(236, 193, 133, 0.6);
+  margin-top: 10px;
+}
+.dateofvalidate {
+  display: flex;
+  justify-content: space-between;
+}
+.thru {
+  color: white;
+  margin-left: -100px;
+}
+.date {
+  color: white;
+  margin-left: 150px;
+}
+.mainvisacard {
+  display: flex;
+  flex-direction: row;
+}
+.visacard {
+  margin-left: 140px;
+  margin-top: -180px;
+}
+.textvisacard {
+  color: white;
+  margin-top: 60px;
+  margin-left: -300px;
+}
+input {
+  margin: 5px;
+  height: 30px;
+  width: 300px;
+}
+.form-validate {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+.label-name {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
+.label-name {
+  display: flex;
+  flex-direction: column;
+}
+h2 {
+  color: white;
+}
